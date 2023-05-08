@@ -20,7 +20,7 @@ Resources:
     Metadata:
       BuildMethod: go1.x
     Properties:
-      CodeUri: hello-world/
+      CodeUri: ./
       Handler: bootstrap
       Runtime: provided.al2
       Architectures:
