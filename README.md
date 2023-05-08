@@ -1,5 +1,7 @@
 # go-serverless-sam-template
 
+[![Go](https://github.com/go-micah/go-serverless-sam-template/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/go-micah/go-serverless-sam-template/actions/workflows/go.yml)
+
 This is a sample template for go-sam-app - Below is a brief explanation of what we have generated for you:
 
 ```bash
