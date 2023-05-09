@@ -4,12 +4,12 @@
 
 ## Overview
 
-This repository is a template and starting point for building a serverless application, written in Go, and designed to be deployed to AWS with the Serverless Application Model (SAM). The repository is meant to cover the following areas:
+This repository is a template and starting point for building a serverless application, written in Go, and designed to be deployed to AWS with the [Serverless Application Model (SAM)](https://docs.aws.amazon.com/serverless-application-model/). The repository is meant to cover the following areas:
 
-1. Local development using GitHub Codespaces
-2. Local development with Go and SAM
-3. Deployment with SAM
-4. Deployment with GitHub Actions and SAM Pipelines
+1. [Local development using GitHub Codespaces](#local-development-using-github-codespaces)
+2. [Local development with Go and SAM](#local-development-with-go-and-sam)
+3. [Deployment with SAM](#deployment-with-sam)
+4. [Deployment with GitHub Actions and SAM Pipelines](#deployment-with-github-actions-and-sam-pipelines)
 
 ## Local development using GitHub Codespaces
 
